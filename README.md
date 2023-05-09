@@ -10,7 +10,7 @@ This jupyter notebook contains python code for applying the Alexiewicz norm to t
 # Mathematica code: AlexSNN.nb
 A detailed doc is available in ReadMe_Mathematica.pdf. The experiments and figures of [5] are generated with this code.
 
-# References:
+# References
 [1] Bernhard A. Moser and Michael Lunglmayr, Quantization in Spiking Neural Networks (submitted to ESANN 2023)
 
 [2] Bernhard A. Moser and Michael Lunglmayr, On quasi-isometry of threshold-based sampling. IEEE Transactions on Signal Processing, 67(14):3832–3841, 2019. doi:10.1109/TSP.2019.2919415. 
