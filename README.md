@@ -1,6 +1,6 @@
 This Github page contains Python and Mathematica code for applying the Alexiewicz norm to LIF and SNN.
 
-# Pathon code: AlexSNN.ipynb
+# Python code: AlexSNN.ipynb
 The experiments and figures of [1] are generated with this code. 
 This jupyter notebook contains python code for applying the Alexiewicz norm to the leaky integrate-and-fire (LIF) neuron model and SNNs:
 * Quantization error based on Alexiewicz norm and its leaky variant, see [1].
