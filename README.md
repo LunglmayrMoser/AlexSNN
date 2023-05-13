@@ -19,4 +19,5 @@ A detailed doc is available in ReadMe_Mathematica.pdf. The experiments and figur
 
 [4] Bernhard A. Moser, Geometric characterization of Weyl’s discrepancy norm in terms of its n-dimensional unit balls. Discret. Comput. Geom., 48(4):793–806, 2012. doi:10.1007/s00454-012-9454-0. 
 
-[5] Bernhard A. Moser and Michael Lunglmayr, Spiking Neural Networks in the Alexiewicz Topology: A New Perspective on Analysis and Error Bounds (submitted to Neurocomputing, 2023)
+[5] Bernhard A. Moser and Michael Lunglmayr, Spiking Neural Networks in the Alexiewicz Topology: A New Perspective on Analysis and Error Bounds, 
+https://doi.org/10.48550/arXiv.2305.05772 (submitted to Neurocomputing, 2023)
